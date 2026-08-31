@@ -147,3 +147,17 @@ kombiniert und in einem funktionierenden Spielprojekt umsetzt.
 ## Autor
 
 **sxrg1u** – Eigenes Projekt
+
+
+---
+
+## Download & Spielen
+**Schritt 1 – Repository holen:** `git clone https://github.com/sxrg1u/BombGame.git` (oder als ZIP herunterladen).
+
+**Schritt 2 – Projekt öffnen:** Die Datei `BombGame.slnx` mit Visual Studio (2022 oder neuer, Workload ".NET Desktop Development") öffnen.
+
+**Schritt 3 – Starten:** Projekt builden und mit F5 ausführen.
+
+**Voraussetzungen:** Windows, .NET Desktop Runtime, Visual Studio.
+
+**Spielziel:** Alle sicheren Felder aufdecken, ohne eine Bombe zu treffen. Je mehr sichere Felder du aufdeckst, desto höher dein Score!
